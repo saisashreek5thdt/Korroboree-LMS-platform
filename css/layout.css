@@ -592,8 +592,8 @@ Main components
   /* hide description on small devices */
   display: none;
 }
-.cd-primary-nav .cd-nav-icons .cd-nav-item::before {
-	  /* item icon */
+/*  .cd-primary-nav .cd-nav-icons .cd-nav-item::before {
+	 
 	 content: '';
 	display: block;
 	position: absolute;
@@ -605,11 +605,11 @@ Main components
 	  background-repeat: no-repeat;
 	  background-position: center center;
 	  background-size: 40px 40px;
-}
-.cd-primary-nav .cd-nav-icons .cd-nav-item.item-1::before {
+} */
+/*  .cd-primary-nav .cd-nav-icons .cd-nav-item.item-1::before {
   background-image: url("../images/line-icon-1.png");
-}
-.cd-primary-nav .cd-nav-icons .cd-nav-item.item-2::before {
+} */
+/*  .cd-primary-nav .cd-nav-icons .cd-nav-item.item-2::before {
   background-image: url("../images/line-icon-2.png");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-3::before {
@@ -617,7 +617,7 @@ Main components
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-4::before {
   background-image: url("../images/line-icon-4.png");
-}
+} */
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-5::before {
   background-image: url("../images/line-icon-5.png");
 }
@@ -859,7 +859,7 @@ support for no js
 	left:0;
 	top:50%;
 	margin-top:-70px;
-	color:white;
+	color:#00AFEF;
 	text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
 	font-weight:700;
@@ -9041,7 +9041,7 @@ Main components
     top: 80px;
     width: 100vw;
     background: rgba(255,255,255,.96);
-    padding: 48px 64px 130px;
+    
     box-shadow: inset 0 1px 0 #e2e3df, 0 3px 6px rgba(0, 0, 0, 0.05);
     -webkit-transform: translateX(0);
     -moz-transform: translateX(0);
@@ -9110,7 +9110,7 @@ Main components
     /* here you set the number of columns - use width percentage */
     width: 23%;
     float: left;
-    margin-right: 2.66%;
+    margin-right: 1.66%;
     border-right: 1px solid #e2e3df;
     overflow: hidden;
     overflow-x: hidden;
@@ -9124,7 +9124,7 @@ Main components
   }
   .cd-primary-nav .cd-secondary-nav > li > a {
     /* secondary nav title */
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
 	letter-spacing:2px;
 	text-transform: uppercase;
 	font-size: 16px;
@@ -9189,7 +9189,7 @@ Main components
     /* set here number of columns - use width percentage */
     width: 22%;
     float: left;
-    margin: 0 4% 0 0;
+   
   }
   .cd-primary-nav .cd-nav-gallery li:nth-child(4n+2) {
     /* +2 because we have two additional list items with display:none */
@@ -9228,7 +9228,7 @@ Main components
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item {
     border-bottom: none;
-    height: 80px;
+    height: 50px;
     line-height: 1;
     padding: 14px 0 0 85px;
   }
@@ -9251,9 +9251,9 @@ Main components
 	letter-spacing:2px;
 	font-size: 10px;
   }
-  .cd-primary-nav .cd-nav-icons .cd-nav-item::before {
+  /* .cd-primary-nav .cd-nav-icons .cd-nav-item::before {
     left: 25px;
-  }
+  } */
   .has-children > a::before, .has-children > a::after, .go-back a::before, .go-back a::after {
     background: #c9cbc4;
   }

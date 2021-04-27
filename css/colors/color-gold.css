@@ -37,7 +37,7 @@ a.arrow-down:hover{
 	color:#cfa144;
 }
 .services-boxes-1 .icon-box{
-	background:#cfa144;
+	background:#00AFEF;
 }
 .services-boxes-1:hover .icon-box{
 	color:#cfa144;
@@ -46,16 +46,16 @@ a.arrow-down:hover{
   background: #00AFEF;
 }
 .cd-timeline-content .cd-read-more {
-  border:2px solid #cfa144;
+  border:2px solid #00AFEF;
 }
 .no-touch .cd-timeline-content .cd-read-more:hover {
-  background-color: #cfa144;
+  background-color: #00AFEF;
 }
 .cd-timeline-content .cd-date {
 	color:#cfa144;
 }
 .facts-box-1-num{
-	color:#cfa144;
+	color:#00AFEF;
 }
 .facts-box-2 h6{
 	color:#cfa144;
@@ -139,7 +139,7 @@ a.arrow-down:hover{
 	background:#cfa144;
 }
 .portfolio-box-2:hover h6{
-	color: #cfa144;
+	color: #00AFEF;
 }
 .services-boxes-2 .icon-box{
 	color: #cfa144;
@@ -151,13 +151,13 @@ a.arrow-down:hover{
 	color: #cfa144;
 }
 .team-box-1 .team-box-1-text-in h6{
-	color: #cfa144;
+	color: #00AFEF;
 }
 .team-social li:hover.icon-team a {
-	color: #cfa144;
+	color: #00AFEF;
 }
 .list-social li.icon-soc a {
-	color: #cfa144;
+	color: #00AFEF;
 }
 .smk_accordion .accordion_in .acc_head:hover {
 	background:#cfa144;
@@ -188,7 +188,7 @@ a.arrow-down:hover{
 	color:#cfa144;
 }
 .footer-1 p a:hover{
-	color: #cfa144;
+	color: #00AFEF;
 } 
 .icon-footer{
 	color: #cfa144;
@@ -291,27 +291,27 @@ a.arrow-down:hover{
 }
 @media only screen and (min-width: 1170px) {
   .cd-primary-nav > li > a:hover {
-    color: #cfa144;
+    color: #00AFEF;
   }
   .cd-primary-nav > li > a.selected {
-    color: #cfa144;
-    box-shadow: inset 0 -2px 0 #cfa144;
+    color: #00AFEF;
+    box-shadow: inset 0 -2px 0 #00AFEF;
   }
   .cd-primary-nav .cd-secondary-nav > li > a {
     /* secondary nav title */
-    color: #cfa144;
+    color: black;
   }
   .cd-primary-nav .cd-secondary-nav a:hover {
-    color: #cfa144;
+    color: #00AFEF;
   }
   .cd-primary-nav .cd-nav-gallery .cd-nav-item h3 {
-    color: #cfa144;
+    color: black;
   }
   .cd-primary-nav .cd-nav-icons .cd-nav-item h3 {
-    color: #cfa144;
+    color: black;
   }
   .has-children > a:hover::before, .has-children > a:hover::after, .go-back a:hover::before, .go-back a:hover::after {
-    background: #cfa144;
+    background: ##00AFEF;
   }
 }
 

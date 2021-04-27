@@ -10,16 +10,17 @@
 .small-button {
     font-weight: 300!important;
     padding: 8px 25px !important;
-    background: #F03F37 !important;
+    background: #589BFF !important;
     color: #fff!important;
     font-size: 16px !important;
     width: 150px !important;
     border: 0px !important;
     margin-top: 35px;
     border-radius: 6px !important;
+    font-family: 'Lato';
 }
 .small-button:hover {
-    background-color: #589BFF !important;
+    background-color: #3a78c9 !important;
 }
 .own-one-send{
     width: 560px;
@@ -54,3 +55,10 @@
     border-top-left-radius: 0px!important;
     border-bottom-left-radius: 0px!important;
 }
+.chnge_colr{
+    background-color: #f3f3f3;
+}
+.prduct_clr:hover{
+    color: #00AFEF !important;
+}
+

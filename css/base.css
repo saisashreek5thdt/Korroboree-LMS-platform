@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
 	input[type="reset"],
 	input[type="button"] {
 	background:#363636;	
-	margin-top:10px;
+/* 	margin-top:10px; */
 	border:none;
 	  color: #dfdfdf;
 	  display: inline-block;
