@@ -592,7 +592,7 @@ Main components
   /* hide description on small devices */
   display: none;
 }
-/*  .cd-primary-nav .cd-nav-icons .cd-nav-item::before {
+  .cd-primary-nav .cd-nav-icons .cd-nav-item::before {
 	 
 	 content: '';
 	display: block;
@@ -605,11 +605,11 @@ Main components
 	  background-repeat: no-repeat;
 	  background-position: center center;
 	  background-size: 40px 40px;
-} */
-/*  .cd-primary-nav .cd-nav-icons .cd-nav-item.item-1::before {
+} 
+  .cd-primary-nav .cd-nav-icons .cd-nav-item.item-1::before {
   background-image: url("../images/line-icon-1.png");
-} */
-/*  .cd-primary-nav .cd-nav-icons .cd-nav-item.item-2::before {
+} 
+  .cd-primary-nav .cd-nav-icons .cd-nav-item.item-2::before {
   background-image: url("../images/line-icon-2.png");
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-3::before {
@@ -617,7 +617,7 @@ Main components
 }
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-4::before {
   background-image: url("../images/line-icon-4.png");
-} */
+} 
 .cd-primary-nav .cd-nav-icons .cd-nav-item.item-5::before {
   background-image: url("../images/line-icon-5.png");
 }
@@ -7568,7 +7568,7 @@ Main components
 }
 
 .parallax-about-me {
-	background: url('../images/parallax/about-me.jpg') repeat fixed;
+	background: url('../images/job2.jpg') repeat fixed;
 	background-size: cover;
 	position: absolute;
 	top: 0; 

@@ -51,6 +51,15 @@ a.arrow-down:hover{
 .no-touch .cd-timeline-content .cd-read-more:hover {
   background-color: #00AFEF;
 }
+
+.own_btn .cd-read-more {
+  border:2px solid #00AFEF;
+}
+.own_btn .cd-read-more:hover {
+  background-color: #00AFEF;
+}
+
+
 .cd-timeline-content .cd-date {
 	color:#cfa144;
 }
