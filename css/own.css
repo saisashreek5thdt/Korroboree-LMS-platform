@@ -55,8 +55,13 @@
     border-top-left-radius: 0px!important;
     border-bottom-left-radius: 0px!important;
 }
+.chnge_colr2{
+    background-color: #f3f3f3;
+    height: 500px;
+}
 .chnge_colr{
     background-color: #f3f3f3;
+    height: 580px;
 }
 .prduct_clr:hover{
     color: #00AFEF !important;
@@ -125,7 +130,7 @@
 
 }
 .parallax-about-me_attrbuites{
-    background: url(../images/max.jpg) repeat fixed;
+    background: url(../images/embrace2.jpg) repeat fixed;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -134,5 +139,62 @@
     bottom: 0;
     z-index: -1;
     width: 100%;
+
+}
+.wru_page{
+    color: white;
+}
+.lato_font{
+    font-family: 'lato';
+}
+.co-funder{
+    font-size: 12px !important;
+    font-family: 'lato';
+}
+.clr_blck{
+    color: black !important;
+}
+.white-section{
+    background-color: white;
+}
+.own_two{
+    width: 560px;
+}
+.footerforms {
+    background: #fff;
+    padding: 25px 25px 0px;
+    width: 365px;
+    float: right;
+    border-radius: 10px;
+}
+.wpcf7-form-control-wrap {
+    position: relative;
+}
+.footerforms input, .footerforms textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 100%;
+}
+p {
+    padding-bottom: 1em;
+}
+@media only screen and (min-device-width : 2561px) and (max-device-width : 3840px) {
+    .fnt_incre{
+        font-size: 130px;
+    }
+}
+
+
+@media only screen and (min-device-width : 1921px) and (max-device-width : 2560px) {
+    .fnt_incre{
+        font-size: 90px;
+    }
+}
+
+@media only screen and (min-device-width : 1701px) and (max-device-width : 1920px) {
+    .fnt_incre{
+        font-size: 70px;
+    }
 
 }
